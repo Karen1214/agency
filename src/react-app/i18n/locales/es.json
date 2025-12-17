@@ -1,0 +1,216 @@
+{
+  "header": {
+    "logo": "NexusDigital",
+    "nav": {
+      "services": "Servicios",
+      "about": "Acerca de",
+      "portfolio": "Portafolio",
+      "contact": "Contacto"
+    },
+    "getStarted": "Comenzar"
+  },
+  "hero": {
+    "title": "Transforma Tu",
+    "titleGradient": "Presencia Digital",
+    "subtitle": "Creamos sitios web impresionantes, contenido atractivo para redes sociales y soluciones de IA poderosas que generan resultados para tu negocio.",
+    "services": ["Diseño Web", "Contenido Redes Sociales", "Agentes IA", "Chatbots"],
+    "startProject": "Iniciar Tu Proyecto",
+    "scheduleCall": "Programar una Llamada",
+    "watchWork": "Ver Nuestro Trabajo",
+    "stats": {
+      "projects": "Proyectos Completados",
+      "satisfaction": "Satisfacción del Cliente",
+      "clients": "Clientes Felices",
+      "support": "Soporte Disponible"
+    }
+  },
+  "services": {
+    "title": "Nuestros",
+    "titleGradient": "Servicios Digitales",
+    "subtitle": "Soluciones digitales integrales para elevar tu marca e impulsar el crecimiento empresarial",
+    "website": {
+      "title": "Diseño y Desarrollo Web",
+      "description": "Sitios web personalizados y responsivos que convierten visitantes en clientes. Desde páginas de destino hasta aplicaciones web complejas.",
+      "features": ["Diseño Responsivo", "Optimizado SEO", "Carga Rápida", "UI/UX Moderno"]
+    },
+    "socialMedia": {
+      "title": "Creación de Contenido para Redes Sociales",
+      "description": "Edición profesional de video y foto para TikTok, Instagram, Facebook y otras plataformas sociales.",
+      "features": ["Edición de Video", "Mejora de Fotos", "Estrategia de Contenido", "Optimización de Plataformas"]
+    },
+    "socialMediaMarketing": {
+      "title": "Marketing en Redes Sociales",
+      "description": "Campañas estratégicas de redes sociales que hacen crecer tu audiencia e impulsan resultados empresariales reales en todas las plataformas.",
+      "features": ["Estrategia de Contenido", "Gestión de Comunidad", "Análisis e Informes", "Publicidad Pagada"]
+    },
+    "aiAgents": {
+      "title": "Agentes IA y Automatización",
+      "description": "Soluciones inteligentes de IA que optimizan tus procesos empresariales y mejoran la experiencia del cliente.",
+      "features": ["Automatización de Procesos", "Análisis de Datos", "Flujos de Trabajo Inteligentes", "Modelos IA Personalizados"]
+    },
+    "chatbot": {
+      "title": "Desarrollo de Chatbots",
+      "description": "Soporte al cliente 24/7 con chatbots inteligentes que entienden y responden naturalmente.",
+      "features": ["Procesamiento de Lenguaje Natural", "Disponibilidad 24/7", "Multiplataforma", "Generación de Leads"]
+    },
+    "additional": {
+      "title": "Servicios Adicionales",
+      "brandIdentity": {
+        "title": "Identidad de Marca",
+        "description": "Diseño de logos y directrices de marca"
+      },
+      "digitalMarketing": {
+        "title": "Marketing Digital",
+        "description": "SEO, PPC y marketing en redes sociales"
+      },
+      "performance": {
+        "title": "Optimización de Rendimiento",
+        "description": "Optimización de velocidad y conversión"
+      },
+      "security": {
+        "title": "Seguridad y Mantenimiento",
+        "description": "Seguridad continua y actualizaciones"
+      }
+    },
+    "learnMore": "Saber Más"
+  },
+  "about": {
+    "title": "Acerca de",
+    "titleGradient": "NexusDigital",
+    "description1": "Somos una agencia digital visionaria especializada en crear experiencias online poderosas que generan resultados empresariales reales. Nuestro equipo combina excelencia creativa con experiencia técnica para entregar soluciones que se destacan en el panorama digital competitivo de hoy.",
+    "description2": "Desde diseños web impresionantes hasta contenido atractivo para redes sociales, automatización impulsada por IA y chatbots inteligentes, ayudamos a empresas de todos los tamaños a establecer una fuerte presencia digital y conectar con sus audiencias de maneras significativas.",
+    "stats": {
+      "experience": "5+ Años",
+      "experienceLabel": "Experiencia en la Industria",
+      "team": "Equipo Experto",
+      "teamLabel": "Profesionales Capacitados"
+    },
+    "workWithUs": "Trabajar Con Nosotros",
+    "values": {
+      "excellence": {
+        "title": "Excelencia",
+        "description": "Entregamos trabajo de calidad premium que supera las expectativas"
+      },
+      "collaboration": {
+        "title": "Colaboración",
+        "description": "Trabajamos estrechamente con los clientes como socios de confianza"
+      },
+      "innovation": {
+        "title": "Innovación",
+        "description": "Aprovechamos tecnología de vanguardia y soluciones creativas"
+      },
+      "results": {
+        "title": "Resultados",
+        "description": "Nos enfocamos en resultados medibles que impulsan el crecimiento empresarial"
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Nuestro",
+    "titleGradient": "Trabajo",
+    "subtitle": "Descubre cómo hemos ayudado a empresas a transformar su presencia digital y lograr resultados extraordinarios",
+    "categories": ["Todos", "Diseño Web", "Creación de Contenido", "Soluciones IA"],
+    "projects": {
+      "ecommerce": {
+        "title": "Plataforma E-commerce",
+        "category": "Diseño Web",
+        "description": "Plataforma e-commerce moderna con recomendaciones de productos impulsadas por IA"
+      },
+      "social": {
+        "title": "Campaña de Redes Sociales",
+        "category": "Creación de Contenido",
+        "description": "Contenido viral de TikTok e Instagram que aumentó seguidores en 300%"
+      },
+      "customerBot": {
+        "title": "Bot de Atención al Cliente",
+        "category": "Soluciones IA",
+        "description": "Chatbot inteligente que maneja el 80% de consultas de clientes automáticamente"
+      },
+      "restaurant": {
+        "title": "Sitio Web Cadena de Restaurantes",
+        "category": "Diseño Web",
+        "description": "Sitio web de restaurante multi-ubicación con sistema de pedidos online"
+      },
+      "fitness": {
+        "title": "Contenido Marca Fitness",
+        "category": "Creación de Contenido",
+        "description": "Anuncios de video de alta conversión y contenido de redes sociales para marca fitness"
+      },
+      "salesBot": {
+        "title": "Asistente IA de Ventas",
+        "category": "Soluciones IA",
+        "description": "Asistente de ventas impulsado por IA que aumentó las tasas de conversión en 45%"
+      }
+    },
+    "cta": {
+      "description": "¿Listo para ver qué podemos hacer por tu negocio?",
+      "button": "Iniciar Tu Proyecto"
+    }
+  },
+  "contact": {
+    "title": "Comencemos Tu",
+    "titleGradient": "Proyecto",
+    "subtitle": "¿Listo para transformar tu presencia digital? Ponte en contacto y hablemos sobre cómo podemos ayudar a crecer tu negocio.",
+    "form": {
+      "title": "Envíanos un mensaje",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "email": "Correo Electrónico",
+      "phone": "Teléfono",
+      "services": "Servicios de Interés",
+      "servicesList": ["Diseño Web", "Contenido Redes Sociales", "Marketing Redes Sociales", "Agentes IA", "Desarrollo de Chatbots", "Identidad de Marca", "Marketing Digital"],
+      "projectDetails": "Detalles del Proyecto",
+      "projectPlaceholder": "Cuéntanos sobre tu proyecto...",
+      "sendMessage": "Enviar Mensaje"
+    },
+    "info": {
+      "email": {
+        "title": "Envíanos un Email",
+        "info": "hola@nexusdigital.com",
+        "description": "Envíanos un email en cualquier momento"
+      },
+      "phone": {
+        "title": "Llámanos",
+        "info": "+1 (555) 123-4567",
+        "description": "Lun-Vie de 8am a 6pm"
+      },
+      "location": {
+        "title": "Visítanos",
+        "info": "San Francisco, CA",
+        "description": "Ven a saludarnos a nuestra oficina"
+      }
+    },
+    "quickActions": {
+      "title": "¿Prefieres hablar?",
+      "description": "Programa una llamada de consulta gratuita para discutir tu proyecto en detalle.",
+      "scheduleCall": "Programar una Llamada",
+      "liveChat": "Chat en Vivo"
+    },
+    "response": {
+      "title": "Respuesta Rápida",
+      "description": "Típicamente respondemos dentro de 2 horas durante horario laboral"
+    }
+  },
+  "footer": {
+    "description": "Somos una agencia digital visionaria especializada en crear experiencias online poderosas que generan resultados empresariales reales. Transforma tu presencia digital con nuestro equipo experto.",
+    "services": {
+      "title": "Servicios",
+      "list": ["Diseño Web", "Contenido Redes Sociales", "Marketing Redes Sociales", "Agentes IA", "Desarrollo de Chatbots", "Identidad de Marca", "Marketing Digital"]
+    },
+    "company": {
+      "title": "Empresa",
+      "list": ["Acerca de Nosotros", "Nuestro Equipo", "Portafolio", "Casos de Estudio", "Carreras", "Blog"]
+    },
+    "support": {
+      "title": "Soporte",
+      "list": ["Contáctanos", "Centro de Ayuda", "Política de Privacidad", "Términos de Servicio", "Política de Cookies", "Soporte"]
+    },
+    "newsletter": {
+      "title": "Mantente Actualizado",
+      "description": "Recibe los últimos consejos de marketing digital e insights en tu bandeja de entrada.",
+      "placeholder": "Ingresa tu email",
+      "subscribe": "Suscribirse"
+    },
+    "copyright": "© 2024 Agencia NexusDigital. Todos los derechos reservados."
+  }
+}
